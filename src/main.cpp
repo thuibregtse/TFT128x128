@@ -1,5 +1,5 @@
 #include <Arduino.h>
-OPTION 1 (recommended) is to use the HARDWARE SPI pins, which are unique
+//OPTION 1 (recommended) is to use the HARDWARE SPI pins, which are unique
 // to each board and not reassignable. For Arduino Uno: MOSI = pin 11 and
 // SCLK = pin 13. This is the fastest mode of operation and is required if
 // using the breakout board's microSD card.
